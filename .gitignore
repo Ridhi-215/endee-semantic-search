@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+
+# HuggingFace / models cache
+.cache/
+hf_cache/
+models/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Endee data volumes
+endee-data/
